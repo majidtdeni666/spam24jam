@@ -8,8 +8,6 @@ Instalasi Script
 >
 >pkg install python-pip
 >
->pkg install python2 -y
->
 >pip install requests
 >
 >pkg install git -y
